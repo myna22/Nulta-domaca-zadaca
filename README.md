@@ -1,2 +1,1 @@
-# Nulta-domaca-zadaca
-repozitorij za nultu domacu zadacu
+# 0036468186
